@@ -1,5 +1,8 @@
 # product-builder
 
+![image](https://user-images.githubusercontent.com/11095906/71124230-b1f36580-21e4-11ea-8fb1-30b977032459.png)
+
+
 ## Project setup
 ```
 npm install
